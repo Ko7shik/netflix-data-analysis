@@ -52,9 +52,10 @@ The goal of this project is to practice *data analysis fundamentals* that form t
 
 ---
 
+````md
 ## Project Structure
 
-'''text
+```text
 netflix-data-analysis/
 ├── netflix_analysis.py    # Main 
 analysis script
@@ -63,5 +64,4 @@ analysis script
 documentation
 └── .gitignore             # Ignored 
 files
-'''
 
