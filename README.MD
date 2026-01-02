@@ -53,8 +53,11 @@ The goal of this project is to practice *data analysis fundamentals* that form t
 ---
 
 ## Project Structure
+
+'''text
 netflix-data-analysis/
 ├── netflix_analysis.py    # Main analysis script
 ├── netflix_titles.csv     # Dataset
 ├── README.md              # Project documentation
 └── .gitignore             # Ignored files
+'''
