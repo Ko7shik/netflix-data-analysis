@@ -65,4 +65,9 @@ documentation
 └── .gitignore             # Ignored 
 files
 
+## Description Analysis
+- Extracted keywords from descriptions
+- Analyzed theme frequency (crime, family, love, etc.)
+- Identified dominant narrative patterns
+- Prepared text-based features for ML
 
