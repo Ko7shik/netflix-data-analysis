@@ -71,3 +71,10 @@ files
 - Identified dominant narrative patterns
 - Prepared text-based features for ML
 
+## Sample Visualizations
+
+### Movies vs TV Shows Distribution
+![Movies vs TV Shows](images/bar_chart.png)
+
+### Content Release Trend Over Years
+![Release Trend](images/line_chart.png)
