@@ -73,8 +73,8 @@ files
 
 ## Sample Visualizations
 
-### Movies vs TV Shows Distribution
-![Movies vs TV Shows](images/bar_chart.png)
+images/
+ ├─ Movies vs TV Shows on Netflix.png
+ ├─ Netflix Content Growth Over Years.png
+ ├─ Common Themes in Netflix Descriptions.png
 
-### Content Release Trend Over Years
-![Release Trend](images/line_chart.png)
