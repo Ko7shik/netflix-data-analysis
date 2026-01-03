@@ -77,4 +77,6 @@ images/
  ├─ Movies vs TV Shows on Netflix.png
  ├─ Netflix Content Growth Over Years.png
  ├─ Common Themes in Netflix Descriptions.png
+ ├─ Distribution of Netflix Description Lengths.png
+
 
