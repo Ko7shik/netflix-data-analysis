@@ -3,14 +3,14 @@
 ## Overview
 This project performs *Exploratory Data Analysis (EDA)* on the Netflix Movies and TV Shows dataset to uncover patterns, trends, and insights about content available on Netflix.
 
-The goal of this project is to practice *data analysis fundamentals* that form the foundation of *Data Science and Machine Learning*.
+The objective of this project is to strengthen *data analysis fundamentals, which form the foundation for **Data Science and Machine Learning* projects.
 
 ---
 
 ## Dataset
-- Source: Kaggle – Netflix Movies and TV Shows dataset
-- Total records: ~8,800
-- Features include:
+- *Source:* Kaggle – Netflix Movies and TV Shows dataset  
+- *Total records:* ~8,800  
+- *Key features:*
   - Title
   - Type (Movie / TV Show)
   - Director
@@ -25,10 +25,10 @@ The goal of this project is to practice *data analysis fundamentals* that form t
 ---
 
 ## Technologies Used
-- Python 🐍
-- Pandas
-- Matplotlib
-- CSV Dataset
+- Python 🐍  
+- Pandas  
+- Matplotlib  
+- CSV Dataset  
 
 ---
 
@@ -36,47 +36,31 @@ The goal of this project is to practice *data analysis fundamentals* that form t
 ✔ Loaded and explored the dataset  
 ✔ Inspected dataset shape and structure  
 ✔ Checked missing values and data types  
+
 ✔ Analyzed:
-- Movies vs TV Shows distribution
-- Content release trends over the years
-- Top contributing countries
+- Movies vs TV Shows distribution  
+- Content release trends over the years  
+- Top contributing countries  
+
 ✔ Visualized insights using bar charts and line graphs  
 
 ---
 
 ## Key Insights
-- Movies dominate Netflix content compared to TV Shows
-- A significant increase in content occurred after 2015
-- The United States contributes the highest number of titles
-- Recent years show rapid expansion in Netflix’s content library
+- Movies dominate Netflix content compared to TV Shows  
+- A significant increase in content occurred after 2015  
+- The United States contributes the highest number of titles  
+- Recent years show rapid expansion in Netflix’s content library  
 
 ---
 
-````md
 ## Project Structure
 
 ```text
 netflix-data-analysis/
-├── netflix_analysis.py    # Main 
-analysis script
-├── netflix_titles.csv     # Dataset
-├── README.md              # Project 
-documentation
-└── .gitignore             # Ignored 
-files
-
-## Description Analysis
-- Extracted keywords from descriptions
-- Analyzed theme frequency (crime, family, love, etc.)
-- Identified dominant narrative patterns
-- Prepared text-based features for ML
-
-## Sample Visualizations
-
-images/
- ├─ Movies vs TV Shows on Netflix.png
- ├─ Netflix Content Growth Over Years.png
- ├─ Common Themes in Netflix Descriptions.png
- ├─ Distribution of Netflix Description Lengths.png
-
-
+├── netflix_analysis.py                # Main EDA script
+├── netflix_description_analysis.py    # Description-based text analysis
+├── netflix_titles.csv                 # Dataset
+├── images/                            # Generated visualizations
+├── README.md                          # Project documentation
+└── .gitignore                         # Ignored files
