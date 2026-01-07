@@ -64,7 +64,7 @@ netflix-data-analysis/
 ├── images/                            # Generated visualizations
 ├── README.md                          # Project documentation
 └── .gitignore                         # Ignored files
-
+```
 ---
 
 ## Recommendation System
@@ -81,3 +81,4 @@ A content-based recommendation system was built using *TF-IDF vectorization* and
 - Cosine Similarity
 
 This lays the groundwork for future *machine learning and recommendation system projects*.
+
