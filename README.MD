@@ -64,3 +64,20 @@ netflix-data-analysis/
 ├── images/                            # Generated visualizations
 ├── README.md                          # Project documentation
 └── .gitignore                         # Ignored files
+
+---
+
+## Recommendation System
+A content-based recommendation system was built using *TF-IDF vectorization* and *cosine similarity* on Netflix show descriptions.
+
+### How it works:
+- Converts descriptions into numerical vectors
+- Measures similarity between shows
+- Recommends titles with similar themes and narratives
+
+### Technologies:
+- scikit-learn
+- NLP (TF-IDF)
+- Cosine Similarity
+
+This lays the groundwork for future *machine learning and recommendation system projects*.
